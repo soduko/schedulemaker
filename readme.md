@@ -1,9 +1,6 @@
 # ScheduleMaker
 A course database lookup tool and schedule building web application for use at Rochester Institute of Technology.
 
-This branch is an attempt to move to postgres with current code base.
-
-
 Instructions for setting up a dev environment:
 >1. Install Apache (Use XAMPP if you're on Windows: https://www.apachefriends.org/index.html)
 >2. Install Node.js: https://nodejs.org/en/
